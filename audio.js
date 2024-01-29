@@ -24,3 +24,5 @@ var element2 = new SocialUiPlayer({
   
 
 }).SocialUi("audio");
+
+document.querySelector(".audios_loader").style.display="none";
