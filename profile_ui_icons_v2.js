@@ -64,7 +64,7 @@ document.querySelector(".post_1").src=imgs["post_1"];
 document.querySelector(".post_2").src=imgs["post_2"];
 
 var lik=document.querySelectorAll(".like_pui");
-for(a=0;a<com.length;a++){
+for(a=0;a<lik.length;a++){
 lik[a].src=imgs["heart"];
 }
 var com=document.querySelectorAll(".com_pui");
